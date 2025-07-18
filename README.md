@@ -1,11 +1,12 @@
-This project focuses on predicting the Air Quality Index (AQI) using environmental pollutant metrics like CO, Ozone, NO₂, and PM2.5 levels. It uses machine learning models (especially Random Forest Regressor) to estimate AQI values and visualize actual vs predicted performance.
-Dependencies:-
+# PREDICTING AQI MODEL
+### This project focuses on predicting the Air Quality Index (AQI) using environmental pollutant metrics like CO, Ozone, NO₂, and PM2.5 levels. It uses machine learning models (especially Random Forest Regressor) to estimate AQI values and visualize actual vs predicted performance.
+## Dependencies:-
  pandas
  numpy
  matplotlib
  seaborn
  scikit-learn
-Key Features:-
+## Key Features:-
 Preprocessing of real-world air quality data
 Data visualization (pair plots and heatmaps)
 Model training using:
